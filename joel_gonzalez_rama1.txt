@@ -1,6 +1,8 @@
+<<<<<<< HEAD
 hola
 adios
 nuevalinea
 otramas?
 otra mas
 otra
+
